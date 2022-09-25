@@ -1,0 +1,6 @@
+#ifndef SQL_PARSER_FUNCTIONS_H_
+#define SQL_PARSER_FUNCTIONS_H_
+
+
+
+#endif  // SQL_PARSER_FUNCTIONS_H_

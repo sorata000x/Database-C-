@@ -1,0 +1,16 @@
+"/Users/sora/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/sora/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/sora/Development/JetBrains/Clion/Database-C- -B /Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug
+CMake Error: The current CMakeCache.txt directory /Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug/googletest/CMakeCache.txt is different than the directory /Users/sora/Development/C++/Database/cmake-build-debug/googletest where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The current CMakeCache.txt directory /Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug/googletest/CMakeCache.txt is different than the directory /Users/sora/Development/C++/Database/cmake-build-debug/googletest where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+No such file or directory
+CMake Error: Generator: execution of make failed. Make command was:  && 
+CMake Error at cmake/googletest.cmake:28 (add_subdirectory):
+  add_subdirectory given source
+  "/Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug/googletest/googletest-src"
+  which is not an existing directory.
+Call Stack (most recent call first):
+  CMakeLists.txt:17 (fetch_googletest)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/sora/Development/JetBrains/Clion/Database-C-/cmake-build-debug/CMakeFiles/CMakeError.log".
