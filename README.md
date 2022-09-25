@@ -4,7 +4,7 @@ Name: Sora Chen <br>
 Course: CS8 <br>
 Instructor: Sassan Barkeshli
 
-Caution: Please do not copy this program for your course work
+Caution: Please do not copy this program for your course work,
 or my professor, who is the best professor I have known, will kill me. 
 
 ### Description
