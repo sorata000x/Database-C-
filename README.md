@@ -2,9 +2,6 @@
 
 Name: Aiden Chen <br>
 
-Caution: Please do not copy this program for your course work,
-or my professor, who is the best professor I have known, will kill me. 
-
 ### Description
 - A database program that reads from a text file in csv format
   to form a table and allows user to find records that matches
